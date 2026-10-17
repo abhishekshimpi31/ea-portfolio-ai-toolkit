@@ -1,0 +1,5 @@
+.env
+*.csv
+*.xlsx
+run_ea_workflow.py
+*.egg-info/
